@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T07:01:35.306Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="VamYTrzy-LPOuPDm3nFU" version="13.5.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-07-31T08:34:39.291Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="9Zli3ZzWePCw_72DBm5Z" version="13.5.7" type="github" pages="3">
   <diagram name="checksum_diagram" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1662" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1185,12 +1185,6 @@
         </mxCell>
         <mxCell id="RqnEcclbW51SUo955O5g-162" value="URAM_CTRL" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="RqnEcclbW51SUo955O5g-1" vertex="1">
           <mxGeometry x="1016" y="1350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RqnEcclbW51SUo955O5g-163" value="" style="endArrow=none;html=1;shadow=0;" parent="RqnEcclbW51SUo955O5g-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="1300" as="sourcePoint" />
-            <mxPoint x="580" y="750" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="RqnEcclbW51SUo955O5g-169" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="RqnEcclbW51SUo955O5g-1" vertex="1">
           <mxGeometry x="870" y="750" width="10" height="500" as="geometry" />
